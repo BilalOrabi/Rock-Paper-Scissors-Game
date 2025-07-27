@@ -37,5 +37,3 @@ A simple but well-structured Rock Paper Scissors game built in **C++**, emphasiz
 
 ---
 
-## 🧾 Example Output
-
